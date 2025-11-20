@@ -96,8 +96,6 @@ gcc --version && cmake --version
 4.2 模块安装
 
 # 1. 克隆代码仓库
-git clone https://gitee.com/opengauss-community/opengauss-log-transaction-optimize.git
-cd opengauss-log-transaction-optimize
 
 # 2. 编译安装
 mkdir build && cd build
