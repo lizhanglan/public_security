@@ -1,4 +1,4 @@
-# openGauss 日志与事务优化模块开源文档
+# openGauss 日志与事务优化模块
 
 适用范围：openGauss 6.x/7.x  
 目标读者：DBA、后端/平台工程师、SRE、对数据库性能与稳定性有要求的团队
